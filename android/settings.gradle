@@ -1,0 +1,3 @@
+rootProject.name = 'eventssu_3095'
+
+include ':app'
